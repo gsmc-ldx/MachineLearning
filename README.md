@@ -1,7 +1,7 @@
 # MachineLearning
 
-##MachineLearning-codesample
+## MachineLearning-codesample
 
-##机器学习：python实践-魏贞原
+## 机器学习：python实践-魏贞原
 
-##源代码
+## 源代码
